@@ -1,1 +1,1 @@
-# samsung-clone
+# portfolio-sk
